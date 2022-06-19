@@ -1,11 +1,11 @@
 # Algorand NFT Mint Example
 
-### Dependencies
+### Dependencies:
 - Algorand SDK 
 - PureStake API
 - dotenv
 
-### Files
+### Files:
 
 #### 1.`generate_algo_account.js` creates a fundable account on Algorand
 
@@ -31,3 +31,10 @@
 3. Add your API key to `generate_nft.js `
 4. Add your mnemonic `generate_nft.js` 
 5. Mint NFT `node generate_nft.js`
+
+#### Successful Ouput
+If all goes well the follwoing will pring in the terminal 
+
+`PPSWJDI6HOBJGSGV3L5GXUXMCLNIX4P53JNUGJEJBA5LEXLXNS67MIQ2IE`
+`Transaction : G6T2EYO6AKFXQQR2NQ2UDMFNYSRB4YUNWW7SUKFMJZ4XQKOVOS3A`
+`Transaction confirmed in round 22305958`
