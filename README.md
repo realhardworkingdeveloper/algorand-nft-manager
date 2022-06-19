@@ -21,7 +21,7 @@
 
 
 
-#### 3. `generate_nft.js` asset creation template
+#### 3. `generate_algo_account` asset creation template
 
 
 ### How to use the files: 
