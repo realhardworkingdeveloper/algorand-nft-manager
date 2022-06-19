@@ -21,7 +21,7 @@
 
 
 
-#### 3. `generate_algo_account` asset creation template
+#### 3. `generate_algo_account.js` asset creation template
 
 
 ### How to use the files: 
