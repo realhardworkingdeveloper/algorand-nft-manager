@@ -5,7 +5,7 @@
 - dotenv
 
 
-## 1.`generate_algo_account.js` Creates a fundable account on Algorand
+### 1.`generate_algo_account.js` creates a fundable account on Algorand
 
 - Generates account 
 - Generates mnemnonic 
@@ -13,12 +13,12 @@
 
 
 
-## 2. `generate_nft.js` Creates a single Algorand NFT/ASA via Javascript SDK / PureStake
+### 2. `generate_nft.js` creates a single Algorand NFT/ASA via Javascript SDK / PureStake
 
-- Generates ASA
+- Generates the NFT / ASA
 
 
-## To run the files: 
+### To run the files: 
 
 1. Go to purestake.com. We use the PureStake api to interact with the Algorand chain but you can use whatever you like.
 2. Generate your 
