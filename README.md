@@ -30,7 +30,7 @@
 2. Generate your account `node generate_algo_account.js`
 3. Add your API key to `generate_nft.js `
 4. Add your mnemonic `generate_nft.js` 
-5. Add your NFT related metadata and URL
+5. Add your NFT related metadata URL
 6. Mint NFT `node generate_nft.js`
 
 #### Successful Ouput
