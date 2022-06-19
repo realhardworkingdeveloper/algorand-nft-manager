@@ -1,2 +1,2 @@
 require('dotenv').config();
-/// Nohing to See here
+/// Nothing to see here
