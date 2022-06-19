@@ -1,5 +1,6 @@
 # Algorand NFT Mint Example
 
+### Ingredients
 - Algorand SDK 
 - PureStake API
 - dotenv
