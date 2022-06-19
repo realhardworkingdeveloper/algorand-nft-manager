@@ -1,5 +1,7 @@
 # Algorand NFT Mint Example
 
+Generate a single Algorand NFT
+
 ### Dependencies:
 - Algorand SDK 
 - PureStake API
