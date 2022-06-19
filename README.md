@@ -33,7 +33,7 @@
 5. Mint NFT `node generate_nft.js`
 
 #### Successful Ouput
-If all goes well the follwoing will pring in the terminal 
+- If all goes well the follwing will outpu in your terminal
 `
 PPSWJDI6HOBJGSGV3L5GXUXMCLNIX4P53JNUGJEJBA5LEXLXNS67MIQ2IE
 Transaction : G6T2EYO6AKFXQQR2NQ2UDMFNYSRB4YUNWW7SUKFMJZ4XQKOVOS3A
