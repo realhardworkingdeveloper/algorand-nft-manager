@@ -33,7 +33,7 @@
 5. Add your NFT related metadata URL
 6. Mint NFT `node generate_nft.js`
 
-### Successful Ouput
+### Successful Ouput:
 - If all goes well the follwing will output in your terminal
 `
 PPSWJDI6HOBJGSGV3L5GXUXMCLNIX4P53JNUGJEJBA5LEXLXNS67MIQ2IE
