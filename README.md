@@ -25,7 +25,7 @@
 
 
 ### How to use the files: 
-
+- clone => `npm install`
 1. Go to purestake.com and get an account and API key. We use the PureStake API to interact with the Algorand chain but you can use whatever you like.
 2. Generate your account `node generate_algo_account.js`
 3. Add your API key to `generate_nft.js `
