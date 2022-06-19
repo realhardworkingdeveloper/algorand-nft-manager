@@ -37,7 +37,6 @@
 - If all goes well the follwing will output in to the terminal
 `
 PPSWJDI6HOBJGSGV3L5GXUXMCLNIX4P53JNUGJEJBA5LEXLXNS67MIQ2IE
-
 Transaction : G6T2EYO6AKFXQQR2NQ2UDMFNYSRB4YUNWW7SUKFMJZ4XQKOVOS3A
 Transaction confirmed in round 22305958
 `
