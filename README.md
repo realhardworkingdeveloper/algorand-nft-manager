@@ -21,6 +21,7 @@
 ### To run the files: 
 
 1. Go to purestake.com. We use the PureStake api to interact with the Algorand chain but you can use whatever you like.
-2. Generate your 
+2. Generate your account `node generate_algo_account.js`
 3. Add your API key to `generate_nft.js `
 4. Add your mnemonic `generate_nft.js` 
+5. Mint NFT `node generate_nft.js`
