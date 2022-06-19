@@ -1,12 +1,13 @@
 # Algorand NFT Mint Example
 
-### Ingredients
+### Dependencies
 - Algorand SDK 
 - PureStake API
 - dotenv
 
+### Files
 
-### 1.`generate_algo_account.js` creates a fundable account on Algorand
+#### 1.`generate_algo_account.js` creates a fundable account on Algorand
 
 - Generates account 
 - Generates mnemnonic 
@@ -14,9 +15,13 @@
 
 
 
-### 2. `generate_nft.js` creates a single Algorand NFT/ASA via Javascript SDK / PureStake
+#### 2. `generate_nft.js` creates a single Algorand NFT/ASA via Javascript SDK / PureStake
 
 - Generates the NFT / ASA
+
+
+
+#### 3. `generate_nft.js` asset creation template
 
 
 ### How to use the files: 
